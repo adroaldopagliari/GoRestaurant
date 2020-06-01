@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "google.com",
+      "name": "Javali ao molho madeira",
+      "price": "99",
+      "description": "Javali com molho.",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda da casa",
+      "price": "10",
+      "description": "Arroz, feijão e ovo frito.",
+      "available": true,
+      "id": 7
     }
   ]
 }
